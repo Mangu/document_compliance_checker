@@ -1,0 +1,25 @@
+.chat-header-container[b-9m01ik74bt] {
+    top: 0; 
+    padding: 1.5rem; 
+}
+
+.chat-header-controls[b-9m01ik74bt] {
+    margin-bottom: 1.5rem; 
+}
+
+h1[b-9m01ik74bt] {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.new-chat-icon[b-9m01ik74bt] {
+    width: 1.25rem;
+    height: 1.25rem;
+    color: rgb(55, 65, 81);
+}
+
+@media (min-width: 768px) {
+    .chat-header-container[b-9m01ik74bt] {
+        position: sticky;
+    }
+}

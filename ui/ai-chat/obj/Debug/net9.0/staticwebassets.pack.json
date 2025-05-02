@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/ChatInput.razor.js",
+      "PackagePath": "staticwebassets/Components/Pages/Chat/ChatInput.razor.js"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/ChatMessageList.razor.js",
+      "PackagePath": "staticwebassets/Components/Pages/Chat/ChatMessageList.razor.js"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/obj/Debug/net9.0/scopedcss/projectbundle/ai-chat.bundle.scp.css",
+      "PackagePath": "staticwebassets/ai-chat.66xz77tjx8.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/Data/Loan Agreement.pdf",
+      "PackagePath": "staticwebassets/Data/Loan Agreement.pdf"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/Data/SampleAgreement.pdf",
+      "PackagePath": "staticwebassets/Data/SampleAgreement.pdf"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/app.js",
+      "PackagePath": "staticwebassets/app.js"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/lib/dompurify/README.md",
+      "PackagePath": "staticwebassets/lib/dompurify/README.md"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/lib/dompurify/dist/purify.es.mjs",
+      "PackagePath": "staticwebassets/lib/dompurify/dist/purify.es.mjs"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/lib/marked/README.md",
+      "PackagePath": "staticwebassets/lib/marked/README.md"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/lib/marked/dist/marked.esm.js",
+      "PackagePath": "staticwebassets/lib/marked/dist/marked.esm.js"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/lib/pdf_viewer/viewer.html",
+      "PackagePath": "staticwebassets/lib/pdf_viewer/viewer.html"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/lib/pdf_viewer/viewer.mjs",
+      "PackagePath": "staticwebassets/lib/pdf_viewer/viewer.mjs"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/lib/pdfjs-dist/README.md",
+      "PackagePath": "staticwebassets/lib/pdfjs-dist/README.md"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/lib/pdfjs-dist/dist/build/pdf.min.mjs",
+      "PackagePath": "staticwebassets/lib/pdfjs-dist/dist/build/pdf.min.mjs"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/lib/pdfjs-dist/dist/build/pdf.worker.min.mjs",
+      "PackagePath": "staticwebassets/lib/pdfjs-dist/dist/build/pdf.worker.min.mjs"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/lib/pdfjs-dist/dist/web/images/loading-icon.gif",
+      "PackagePath": "staticwebassets/lib/pdfjs-dist/dist/web/images/loading-icon.gif"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/lib/pdfjs-dist/dist/web/pdf_viewer.css",
+      "PackagePath": "staticwebassets/lib/pdfjs-dist/dist/web/pdf_viewer.css"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/lib/pdfjs-dist/dist/web/pdf_viewer.mjs",
+      "PackagePath": "staticwebassets/lib/pdfjs-dist/dist/web/pdf_viewer.mjs"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/lib/tailwindcss/README.md",
+      "PackagePath": "staticwebassets/lib/tailwindcss/README.md"
+    },
+    {
+      "Id": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/wwwroot/lib/tailwindcss/dist/preflight.css",
+      "PackagePath": "staticwebassets/lib/tailwindcss/dist/preflight.css"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.ai-chat.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.ai-chat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.ai-chat.props",
+      "PackagePath": "build\\ai-chat.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.ai-chat.props",
+      "PackagePath": "buildMultiTargeting\\ai-chat.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.ai-chat.props",
+      "PackagePath": "buildTransitive\\ai-chat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
