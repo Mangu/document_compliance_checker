@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ai-chat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f234f90a00dcc26a41eee12aaf181ed8e5e1c14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5fdb94b03dc7f769d4448eb3f3a673a5d1c6e0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ai-chat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ai-chat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
