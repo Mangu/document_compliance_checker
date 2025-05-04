@@ -9,69 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ai-chat
 build_property.RootNamespace = ai-chat
-build_property.ProjectDir = C:\source\document_compliance_checker\ui\ai-chat\
+build_property.ProjectDir = /Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\source\document_compliance_checker\ui\ai-chat
+build_property.MSBuildProjectDirectory = /Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/source/document_compliance_checker/ui/ai-chat/Components/App.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+[/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/source/document_compliance_checker/ui/ai-chat/Components/Pages/Error.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+[/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/source/document_compliance_checker/ui/ai-chat/Components/Routes.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+[/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/source/document_compliance_checker/ui/ai-chat/Components/_Imports.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+[/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/source/document_compliance_checker/ui/ai-chat/Components/Layout/LoadingSpinner.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTG9hZGluZ1NwaW5uZXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-nc5ti28avf
+[/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/Layout/LoadingSpinner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTG9hZGluZ1NwaW5uZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ku46gavf5v
 
-[C:/source/document_compliance_checker/ui/ai-chat/Components/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-6aaayx1vqt
+[/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-s5gv5i215i
 
-[C:/source/document_compliance_checker/ui/ai-chat/Components/Layout/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcU3VydmV5UHJvbXB0LnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-pfpia3p0l8
+[/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/Layout/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvU3VydmV5UHJvbXB0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-e91erwu1hq
 
-[C:/source/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/Chat.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDaGF0XENoYXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-qqegu9w0e5
+[/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/Chat.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGF0L0NoYXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-u9une2k300
 
-[C:/source/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/ChatCitation.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDaGF0XENoYXRDaXRhdGlvbi5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-167b6280v0
+[/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/ChatCitation.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGF0L0NoYXRDaXRhdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-rb3itgcubr
 
-[C:/source/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/ChatHeader.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDaGF0XENoYXRIZWFkZXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-q10xva4v0k
+[/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/ChatHeader.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGF0L0NoYXRIZWFkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9m01ik74bt
 
-[C:/source/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/ChatInput.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDaGF0XENoYXRJbnB1dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-osz1m8nqjg
+[/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/ChatInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGF0L0NoYXRJbnB1dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-f0yfqmiq83
 
-[C:/source/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/ChatMessageItem.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDaGF0XENoYXRNZXNzYWdlSXRlbS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-1k2iq9z8fl
+[/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/ChatMessageItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGF0L0NoYXRNZXNzYWdlSXRlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-fi5u6ftt6c
 
-[C:/source/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/ChatMessageList.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDaGF0XENoYXRNZXNzYWdlTGlzdC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-wv8d7osoja
+[/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/ChatMessageList.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGF0L0NoYXRNZXNzYWdlTGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-qgzl3kgc28
 
-[C:/source/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/ChatSuggestions.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDaGF0XENoYXRTdWdnZXN0aW9ucy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-6e2kpwjfl5
+[/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/Components/Pages/Chat/ChatSuggestions.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9DaGF0L0NoYXRTdWdnZXN0aW9ucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-htq1w9e0kr

@@ -1883,19 +1883,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danilodiaz\\.nuget\\packages\\": {}
+    "/Users/danilodiaz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\document_compliance_checker\\ui\\ai-chat\\ai-chat.csproj",
+      "projectUniqueName": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/ai-chat.csproj",
       "projectName": "ai-chat",
-      "projectPath": "C:\\source\\document_compliance_checker\\ui\\ai-chat\\ai-chat.csproj",
-      "packagesPath": "C:\\Users\\danilodiaz\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\document_compliance_checker\\ui\\ai-chat\\obj\\",
+      "projectPath": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/ai-chat.csproj",
+      "packagesPath": "/Users/danilodiaz/.nuget/packages/",
+      "outputPath": "/Users/danilodiaz/Documents/GitHub/document_compliance_checker/ui/ai-chat/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\danilodiaz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/danilodiaz/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -1969,7 +1969,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
