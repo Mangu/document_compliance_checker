@@ -2,6 +2,8 @@
 
 A lightweight toolkit for rapidly building AI-powered document compliance proof-of-concepts. Leverage multiple similarity-analysis techniques to verify that legal, financial or other documents include all required clauses—and expose them via a simple REST API.
 
+Here is a more detailed [explanation](document_analysis.md).
+
 > note - this repo is in active development. api and ui are not operational
 
 ## Key Features
